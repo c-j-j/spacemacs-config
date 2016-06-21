@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: spech
+# key: spech
+# --
+require 'racingbreaks/spec_helper'

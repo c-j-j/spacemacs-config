@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: rspec
+# key: rspec
+# --
+require '$1'
+RSpec ${1:$(s-upper-camel-case (file-name-nondirectory yas-text))} do
+
+end

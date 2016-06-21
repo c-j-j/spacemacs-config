@@ -1,0 +1,2 @@
+Symlink the private directory into ~/.emacs.d
+Symlink the .spacemacs file into ~/.spacemacs
